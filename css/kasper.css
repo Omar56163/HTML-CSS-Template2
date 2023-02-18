@@ -725,6 +725,9 @@ header nav .form i {
   .pricing .plans {
     flex-direction: column;
   }
+  .pricing .plan {
+  margin-right: 0;
+}
 }
 @media (max-width: 991px) {
   .pricing .plans {
