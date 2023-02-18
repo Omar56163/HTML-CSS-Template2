@@ -729,7 +729,7 @@ header nav .form i {
   margin-right: 0;
 }
 }
-@media (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 991px) {
   .pricing .plans {
     flex-wrap: wrap;
   }
@@ -737,6 +737,7 @@ header nav .form i {
     flex-basis: calc(50% - 25px);
   }
 }
+
 .pricing .head {
   padding: 40px;
   border-top: 2px solid var(--main-color);
